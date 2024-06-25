@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "719355001410",
+    "project_id": "hararexpress-c2570",
+    "storage_bucket": "hararexpress-c2570.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:719355001410:android:6a8e6129dc91c728248bdb",
+        "android_client_info": {
+          "package_name": "com.whitelightningdev.hararexpress"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1Rx45igA2uXbAcGIWvL5yhApjD56NqRA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
